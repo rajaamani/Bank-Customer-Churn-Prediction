@@ -53,6 +53,3 @@ The dataset used in this project is a fictional bank customer dataset and contai
 
 This project provides valuable insights and a predictive model to help banks proactively reduce customer churn and improve overall customer satisfaction.
 
----
-
-You can copy and paste this README content into a "README.md" file in your GitHub repository and modify it as needed to match your project's details and structure.
