@@ -1,5 +1,7 @@
 # Bank Customer Churn Prediction
 
+![Bank Customer Churn Prediction](https://github.com/rajaamani/Credit-Card-Fraud-Detection-using-Autoencoders/assets/101103515/23d8bf42-c03a-4e05-b504-b658b16ad0a7)
+
 ## Table of Contents
 1. [Summary](#summary)
 2. [Introduction](#introduction)
